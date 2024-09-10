@@ -1,0 +1,45 @@
+{
+	"headline": "Our Approach",
+	"tab": [
+		{
+			"title": {
+				"text": "Device Management"
+			},
+			"open": true,
+			"content": {
+				"headline": "Built-in Remote Management",
+				"text": "Manage all your company's digital signage devices from one account, no matter the number of devices you have, their brands or locations.",
+				"url": "#",
+				"destination": "Learn more",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
+			}
+		},
+		{
+			"title": {
+				"text": "User Roles"
+			},
+			"content": {
+				"headline": "Granular User Roles",
+				"text": "Create and customize user roles to manage your team efficiently. This makes work faster and easier while keeping important information safe by controlling who can access it.",
+				"url": "#",
+				"destination": "Learn more",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
+			},
+			"open": false
+		},
+		{
+			"title": {
+				"text": "Savings"
+			},
+			"content": {
+				"headline": "Cost Savings",
+				"text": "Cinemo’s innovative technology requires lower processing power, making it a cost-effective solution for businesses aiming to enhance operations without high hardware expenses.",
+				"url": "#",
+				"destination": "Learn more",
+				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
+			},
+			"open": false
+		}
+		
+	]
+}
